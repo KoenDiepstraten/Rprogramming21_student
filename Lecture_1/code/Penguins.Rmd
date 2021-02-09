@@ -1,8 +1,10 @@
 ---
 title: "Lecture 1"
-subtitle: "Penguins visualisation"
 author: "Misja Mikkers and Gertjan Verhoeven"
-output: html_notebook
+subtitle: Penguins visualisation
+output:
+  html_document:
+    df_print: paged
 ---
 
 # Introduction
